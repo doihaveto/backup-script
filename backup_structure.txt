@@ -1,0 +1,5 @@
+# dN = max depth
+d0 D:\Movies
+d2 E:\Program Files
+d2 V:\
+d2 C:\

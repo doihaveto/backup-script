@@ -1,0 +1,4 @@
+# r = recursive, n = non-recursive
+n D:\
+r C:\Users
+r C:\ProgramData
